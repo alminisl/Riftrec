@@ -1,0 +1,4909 @@
+{
+  "name": "riftdecks-volibear-relentless-storm",
+  "url": "https://riftdecks.com/legends/constructed/volibear-relentless-storm",
+  "date": "2026-03-11",
+  "decklists": [
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brazen Buccaneer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warwick, Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dauntless Vanguard",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sivir, Ambitious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warwick, Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tryndamere, Barbarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boneshiver",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Skyfall of Areion",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Eager Drakehound",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Perched Grimwyrm",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fae Dragon",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mountain Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yone, Blademaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yone, Blademaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sea Monkey",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kraken Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yordle Explorer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Strength",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hexdrinker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hextech Ray",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pakaa Cub",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fae Dragon",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jaull-Fish",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fae Dragon",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Master Yi, Honed",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fae Dragon",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Confront",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yone, Blademaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Miss Fortune, Captain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warwick, Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Skyfall of Areion",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Yone, Blademaster",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Eager Drakehound",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Herald of Scales",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blazing Scorcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dune Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Direwing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mountain Drake",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Miss Fortune, Captain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Garen, Rugged",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Incinerate",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Firestorm",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gentlemen's Duel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Altar to Unity",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Hallowed Tomb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Incinerate",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Warwick, Hunter",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yone, Blademaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warwick, Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Imposing",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Iron Ballista",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Primal Strength",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Miss Fortune, Captain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Master Yi, Honed",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Warwick, Hunter",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Miss Fortune, Captain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brazen Buccaneer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jaull-Fish",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormclaw Ursine",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Show of Strength",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Grand Plaza",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Anivia, Primal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sea Monkey",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Miss Fortune, Captain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warmog's Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Detonate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Here to Help",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Spoils of War",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Monastery of Hirana",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    }
+  ]
+}

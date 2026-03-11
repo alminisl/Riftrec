@@ -1,0 +1,8238 @@
+{
+  "name": "riftdecks-jinx-loose-cannon",
+  "url": "https://riftdecks.com/legends/constructed/jinx-loose-cannon",
+  "date": "2026-03-11",
+  "decklists": [
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Assembly Rig",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Veiled Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ancient Warmonger",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Windswept Hillock",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hextech Ray",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mystic Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Legion Rearguard",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Showboat",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unlicensed Armory",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 9,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Showboat",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hextech Ray",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Assembly Rig",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cemetery Attendant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brazen Buccaneer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Detonate",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Morbid Return",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hallowed Tomb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Morbid Return",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rell, Magnetic",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Miss Fortune, Buccaneer",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Windswept Hillock",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mystic Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 9,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Windswept Hillock",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rockfall Path",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Temptation",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Loyal Pup",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ornn's Forge",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Noxus Saboteur",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Legion Rearguard",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ravenborn Tome",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Immortal Phoenix",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Whirlwind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Draven, Showboat",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Chemtech Enforcer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flame Chompers",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Demolitionist",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fortified Position",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Annie, Stubborn",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 10,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 2,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Noxus Saboteur",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Jinx, Demolitionist",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Temptation",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 10,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 2,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zaunite Bouncer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Ring",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unlicensed Armory",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rockfall Path",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Veiled Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Cull",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mystic Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Altar to Unity",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pack of Wonders",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    }
+  ]
+}

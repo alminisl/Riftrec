@@ -1,0 +1,5285 @@
+{
+  "name": "Vegas\u2019 Top Decks",
+  "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+  "date": "2026-03-04T17:00:00.000Z",
+  "decklists": [
+    {
+      "player": "Duality",
+      "champion": "Garen, Commander",
+      "legend": "Garen, Might of Demacia",
+      "cards": [
+        {
+          "name": "Garen, Might of Demacia",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Garen, Commander",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Drag Under",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Harnessed Dragon",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vanguard Armory",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Divine Judgment",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Silverman",
+      "champion": "Lee Sin, Centered",
+      "legend": "Lee Sin, Blind Monk",
+      "cards": [
+        {
+          "name": "Lee Sin, Blind Monk",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lee Sin, Centered",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Emperor's Divide",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stalwart Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Monastery of Hirana",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Janna, Savior",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "prosteel",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Lafinte",
+      "champion": "Leona, Determined",
+      "legend": "Leona, Radiant Dawn",
+      "cards": [
+        {
+          "name": "Leona, Radiant Dawn",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Leona, Determined",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Emperor's Divide",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Janna, Savior",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Leona, Determined",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxian Drummer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zenith Blade",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Leona, Zealot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Solari Shieldbearer",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Ryujin Shin",
+      "champion": "Renata Glasc, Mastermind",
+      "legend": "Renata Glasc, Chem-Baroness",
+      "cards": [
+        {
+          "name": "Renata Glasc, Chem-Baroness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Money",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hostile Takeover",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shen, Kinkou",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trove Golem",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "GentleGiant",
+      "champion": "Yasuo, Remorseful",
+      "legend": "Yasuo, Unforgiven",
+      "cards": [
+        {
+          "name": "Yasuo, Unforgiven",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yasuo, Remorseful",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lonely Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mask of Foresight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Back-Alley Bar",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "sly",
+      "champion": "Miss Fortune, Captain",
+      "legend": "Miss Fortune, Bounty Hunter",
+      "cards": [
+        {
+          "name": "Miss Fortune, Bounty Hunter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Miss Fortune, Captain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bullet Time",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Imposing",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Miss Fortune, Buccaneer",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "VictorLupin",
+      "champion": "Sett, Brawler",
+      "legend": "Sett, The Boss",
+      "cards": [
+        {
+          "name": "Sett, The Boss",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boneshiver",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Qiyana, Victorious",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner2 Se",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Showstopper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warmog's Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Monastery of Hirana",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "carryboy denni",
+      "champion": "Darius, Trifarian",
+      "legend": "Darius, Hand of Noxus",
+      "cards": [
+        {
+          "name": "Darius, Hand of Noxus",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Daring Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Soaring Scout",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vengeance",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seat of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Grand Strategem",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "E3TCG",
+      "champion": "Volibear, Furious",
+      "legend": "Volibear, Relentless Storm",
+      "cards": [
+        {
+          "name": "Volibear, Relentless Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Volibear, Furious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kadregrin the Infernal",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Magma Wurm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stormbringer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Yone, Blademaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Carnivorous Snapvine",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "KnightinGale",
+      "champion": "Ahri, Inquisitive",
+      "legend": "Ahri, Nine-Tailed Fox",
+      "cards": [
+        {
+          "name": "Ahri, Nine-Tailed Fox",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ahri, Inquisitive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Azir, Ascendant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Janna, Savior",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sona, Harmonious",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stalwart Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sterak's Gage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sunlit Guardian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ahri, Alluring",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Blitzcrank, Impassive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "his depression",
+      "champion": "Fiora, Worthy",
+      "legend": "Fiora, Grand Duelist",
+      "cards": [
+        {
+          "name": "Fiora, Grand Duelist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fiora, Worthy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fiora, Victorious",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Rookie",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Riposte",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sett, Brawler",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Spectral Matron",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unsung Hero",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warmog's Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Monastery of Hirana",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Kenkou",
+      "champion": "Annie, Stubborn",
+      "legend": "Annie, Dark Child",
+      "cards": [
+        {
+          "name": "Annie, Dark Child",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Annie, Stubborn",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Vekx3r",
+      "champion": "Lux, Crownguard",
+      "legend": "Lux, Lady of Luminosity",
+      "cards": [
+        {
+          "name": "Lux, Lady of Luminosity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lux, Crownguard",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Drag Under",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Comet",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Garbage Grabber",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jayce, Man of Progress",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vanguard Armory",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Garbage Grabber",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Recruit the Vanguard",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "FLY T1 LS",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "DaemonXGG",
+      "champion": "Lucian, Merciless",
+      "legend": "Lucian, Purifier",
+      "cards": [
+        {
+          "name": "Lucian, Purifier",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boneshiver",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Relentless Pursuit",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Skyfall of Areion",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trinity Force",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "lunasky",
+      "champion": "Ornn, Forge God",
+      "legend": "Ornn, Fire Below the Mountain",
+      "cards": [
+        {
+          "name": "Ornn, Fire Below the Mountain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Azir, Ascendant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Meditation",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Poro Snax",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Focus",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shurelya's Requiem",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Svellsongur",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "World Atlas",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ornn's Forge",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Charm",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Forgefire Cape",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Vouz",
+      "champion": "Rek'Sai, Swarm Queen",
+      "legend": "Rek'Sai, Void Burrower",
+      "cards": [
+        {
+          "name": "Rek'Sai, Void Burrower",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rek'Sai, Swarm Queen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Call to Glory",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Daring Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rally the Troops",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Unity",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trifarian Gloryseeker",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trusty Ramhound",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Undertitan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vanguard Captain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Drone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Rush",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Power Nexus",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 12,
+          "section": "Runes"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Forge of the Future",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Grand Strategem",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Eric",
+      "champion": "Jinx, Rebel",
+      "legend": "Jinx, Loose Cannon",
+      "cards": [
+        {
+          "name": "Jinx, Loose Cannon",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jinx, Rebel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Battering Ram",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Super Mega Death Rocket!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Villionaire",
+      "champion": "Master Yi, Honed",
+      "legend": "Master Yi, Wuju Bladesman",
+      "cards": [
+        {
+          "name": "Master Yi, Wuju Bladesman",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Master Yi, Honed",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Charm",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dazzling Aurora",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deadbloom Predator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Desert's Call",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Find Your Center",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mobilize",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mountain Drake",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tasty Faefolk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Whiteflame Protector",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thwonk!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unyielding Spirit",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "CustomDipped",
+      "champion": "Viktor, Leader",
+      "legend": "Viktor, Herald of the Arcane",
+      "cards": [
+        {
+          "name": "Viktor, Herald of the Arcane",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Viktor, Leader",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Honest Broker",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vengeance",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Faithful Manufactor",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Glasc Mixologist",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Imperial Decree",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Rocklho",
+      "champion": "Azir, Sovereign",
+      "legend": "Azir, Emperor of the Sands",
+      "cards": [
+        {
+          "name": "Azir, Emperor of the Sands",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Azir, Sovereign",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Arise!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "B.F. Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Deathgrip",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Desert's Call",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Doran's Shield",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Eye of the Herald",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guards!",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hidden Blade",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sacred Shears",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ornn's Forge",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Order Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Cull the Weak",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Defy",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Facebreaker",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Salvage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "aggresia",
+      "champion": "Kai'Sa, Survivor",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "cards": [
+        {
+          "name": "Kai'Sa, Daughter of the Void",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hextech Ray",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Icathian Rain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "NoVeggies",
+      "champion": "Sivir, Mercenary",
+      "legend": "Sivir, Battle Mistress",
+      "cards": [
+        {
+          "name": "Sivir, Battle Mistress",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sivir, Mercenary",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Confront",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "On the Hunt",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sabotage",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Alanzq1",
+      "champion": "Ezreal, Prodigy",
+      "legend": "Ezreal, Prodigal Explorer",
+      "cards": [
+        {
+          "name": "Ezreal, Prodigal Explorer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Arcane Shift",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Morbid Return",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Theverybestgamer",
+      "champion": "Jax, Unmatched",
+      "legend": "Jax, Grandmaster at Arms",
+      "cards": [
+        {
+          "name": "Jax, Grandmaster at Arms",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jax, Unmatched",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aphelios, Exalted",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boneshiver",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Clockwork Keeper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Counter Strike",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warmog's Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Monastery of Hirana",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "section": "Runes"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 1,
+          "section": "Runes"
+        },
+        {
+          "name": "Defy",
+          "quantity": 1,
+          "section": "Runes"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Runes"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Runes"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Runes"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "DeluxePhilCheese",
+      "champion": "Irelia, Fervent",
+      "legend": "Irelia, Blade Dancer",
+      "cards": [
+        {
+          "name": "Irelia, Blade Dancer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Defy",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "SAMDSHERMAN",
+      "champion": "Draven, Vanquisher",
+      "legend": "Draven, Glorious Executioner",
+      "cards": [
+        {
+          "name": "Draven, Glorious Executioner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Spinning Axe",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Alanzq1",
+      "champion": "Ezreal, Prodigy",
+      "legend": "Ezreal, Prodigal Explorer",
+      "cards": [
+        {
+          "name": "Ezreal, Prodigal Explorer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Arcane Shift",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Morbid Return",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sigil of the Storm",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Theverybestgamer",
+      "champion": "Jax, Unmatched",
+      "legend": "Jax, Grandmaster at Arms",
+      "cards": [
+        {
+          "name": "Jax, Grandmaster at Arms",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Jax, Unmatched",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aphelios, Exalted",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boneshiver",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brutalizer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Challenge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Charm",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Clockwork Keeper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Counter Strike",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "First Mate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lucian, Merciless",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ruin Runner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Warmog's Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Monastery of Hirana",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Sunken Temple",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Body Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Cannon Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Defy",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Punch First",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "DeluxePhilCheese",
+      "champion": "Irelia, Fervent",
+      "legend": "Irelia, Blade Dancer",
+      "cards": [
+        {
+          "name": "Irelia, Blade Dancer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Irelia, Fervent",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defiant Dance",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Defy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Discipline",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "En Garde",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guardian Angel",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Not So Fast",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stellacorn Herder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Calm Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Adaptatron",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Defy",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Disarming Rake",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wind Wall",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Prismaticismism",
+      "champion": "Draven, Vanquisher",
+      "legend": "Draven, Glorious Executioner",
+      "cards": [
+        {
+          "name": "Draven, Glorious Executioner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Shizzle",
+      "champion": "Draven, Vanquisher",
+      "legend": "Draven, Glorious Executioner",
+      "cards": [
+        {
+          "name": "Draven, Glorious Executioner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall1",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Argan",
+      "champion": "Draven, Vanquisher",
+      "legend": "Draven, Glorious Executioner",
+      "cards": [
+        {
+          "name": "Draven, Glorious Executioner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "TTA",
+      "champion": "Draven, Vanquisher",
+      "legend": "Draven, Glorious Executioner",
+      "cards": [
+        {
+          "name": "Draven, Glorious Executioner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "AMDSHERMAN",
+      "champion": "Draven, Vanquisher",
+      "legend": "Draven, Glorious Executioner",
+      "cards": [
+        {
+          "name": "Draven, Glorious Executioner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Spinning Axe",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    }
+  ]
+}

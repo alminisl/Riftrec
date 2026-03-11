@@ -1,0 +1,8283 @@
+{
+  "name": "riftdecks-rumble-mechanized-menace",
+  "url": "https://riftdecks.com/legends/constructed/rumble-mechanized-menace",
+  "date": "2026-03-11",
+  "decklists": [
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blastcone Fae",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hallowed Tomb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reckoner's Arena",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Garbage Grabber",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Zero Drive",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Assembly Rig",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sudden Storm",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mega-Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "World Atlas",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Power Nexus",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Shakedown",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blast Corps Cadet",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ekko, Recurrent",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Detonate",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Noxus Hopeful",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Seat of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blast Corps Cadet",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Eager Apprentice",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Insight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Rage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Zero Drive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Skyfall of Areion",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Scrapyard Champion",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Targon's Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "World Atlas",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Premonition",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Power Nexus",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 8,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Skyfall of Areion",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reckoner's Arena",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reckoner's Arena",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Watchful Sentry",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Heimerdinger, Inventor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fortified Position",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Prize of Progress",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vi, Destructive",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Assembly Rig",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hallowed Tomb",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Grand Plaza",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blood Rush",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Scrapyard Champion",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Insight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Premonition",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapyard Champion",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hallowed Tomb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Draven, Vanquisher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Darius, Trifarian",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Experimental Hexplate",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Get Excited!",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sky Splitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fortified Position",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bard, Mercurial",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Grand Plaza",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mega-Mech",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Comet",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sun Disc",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Renata Glasc, Mastermind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dunebreaker",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Insight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Scrapper",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pouty Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cleave",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Void Seeker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Trifarian War Camp",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Long Sword",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Danger Zone",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Grand Plaza",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Against the Odds",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Minotaur Reckoner",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Rumble, Hotheaded",
+      "legend": "Rumble, Mechanized Menace",
+      "cards": [
+        {
+          "name": "Rumble, Mechanized Menace",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gem Jammer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Plundering Poro",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dangerous Duo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Hotheaded",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rumble, Scrapper",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Breakneck Mech",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Angle Shot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Star",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Forgotten Monument",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fury Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Piercing Light",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thermo Beam",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    }
+  ]
+}

@@ -1,0 +1,6302 @@
+{
+  "name": "riftdecks-teemo-swift-scout",
+  "url": "https://riftdecks.com/legends/constructed/teemo-swift-scout",
+  "date": "2026-03-11",
+  "decklists": [
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blastcone Fae",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Viktor, Innovator",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Altar to Unity",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blastcone Fae",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Hallowed Tomb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Strategist",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Temptation",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Morbid Return",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Riptide Rex",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Strategist",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mushroom Pouch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Temptation",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Loyal Pup",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Blastcone Fae",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sprite Mother",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Strategist",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Fortified Position",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 10,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 2,
+          "section": "Runes"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Annie, Stubborn",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Emperor's Dais",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Morbid Return",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Eager Apprentice",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Syren",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 7,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sivir, Mercenary",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Emperor's Dais",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Blastcone Fae",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dropboarder",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Power Nexus",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Cloth Armor",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 9,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 3,
+          "section": "Runes"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Temptation",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Insight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Premonition",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 2,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Veiled Temple",
+          "quantity": 3,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Beast Below",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Black Market Broker",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Beast Below",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Startipped Peak",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sprite Mother",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pickpocket",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dropboarder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Power Nexus",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Windsinger",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fading Memories",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Power Nexus",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Ravenbloom Conservatory",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 3,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sneaky Deckhand",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Downwell",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Eager Apprentice",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Vex, Cheerless",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Smoke Screen",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Grove of the God-Willow",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Vilemaw's Lair",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Minefield",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Acceptable Losses",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Annie, Stubborn",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rhasa the Sunderer",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Last Rites",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Guerilla Warfare",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Sprite Call",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Obelisk of Power",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Arena's Greatest",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Treasure Hunter",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspirant's Climb",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Dreaming Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sprite Mother",
+          "quantity": 2,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Retreat",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Unchecked Power",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hall of Legends",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Treasure Hoard",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 3,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Lecturing Yordle",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dropboarder",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Beast Below",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Scrapheap",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Emperor's Dais",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Void Gate",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 8,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ride the Wind",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fizz, Trickster",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Ornn, Forge God",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Strategist",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Strategist",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Forecaster",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Aspiring Engineer",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bubble Bot",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bard, Mercurial",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Dashing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Convergent Mutation",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Flash",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Frigid Touch",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Premonition",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Whirlwind",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Production Surge",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rocket Barrage",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Falling Comet",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Progress Day",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "The Harrowing",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Possession",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Time Warp",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Emperor's Dais",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Forge of the Fluft",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Marai Spire",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 4,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 8,
+          "section": "Runes"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Overzealous Fan",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Tideturner",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Loyal Pup",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ember Monk",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Bandle Tree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Papertree",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 7,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 5,
+          "section": "Runes"
+        },
+        {
+          "name": "Bellows Breath",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Factory Recall",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    },
+    {
+      "player": "Unknown",
+      "champion": "Teemo, Scout",
+      "legend": "Teemo, Swift Scout",
+      "cards": [
+        {
+          "name": "Teemo, Swift Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Teemo, Scout",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Card Sharp",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Ezreal, Prodigy",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Pit Crew",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Nocturne, Horrifying",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Dr. Mundo, Expert",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Seal of Discord",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Cull",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Boots of Swiftness",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Called Shot",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Gust",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stacked Deck",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Stupefy",
+          "quantity": 3,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Fight or Flight",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Hard Bargain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Rebuke",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Switcheroo",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Invert Timelines",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 2,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Singularity",
+          "quantity": 1,
+          "section": "Main Deck"
+        },
+        {
+          "name": "Reaver's Row",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "The Candlelit Sanctum",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Zaun Warrens",
+          "quantity": 1,
+          "section": "Battlefields"
+        },
+        {
+          "name": "Chaos Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Mind Rune",
+          "quantity": 6,
+          "section": "Runes"
+        },
+        {
+          "name": "Ravenbloom Student",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Traveling Merchant",
+          "quantity": 2,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Edge of Night",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Wages of Pain",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Consult the Past",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Sprite Mother",
+          "quantity": 1,
+          "section": "Sideboard"
+        },
+        {
+          "name": "Mindsplitter",
+          "quantity": 1,
+          "section": "Sideboard"
+        }
+      ],
+      "placement": null
+    }
+  ]
+}
