@@ -34,31 +34,39 @@ function CardTile({
   isLandscape: boolean;
   onClick: () => void;
 }) {
-  const pct = Math.round(card.inclusion_rate * 100);
-  const color = getTierColor(card.inclusion_rate);
+  const pct = (card.inclusion_rate * 100).toFixed(2);
 
   return (
     <div
       className={`card-tile ${isLandscape ? "card-tile-landscape" : ""}`}
       onClick={onClick}
     >
-      {imgUrl ? (
-        <img
-          src={imgUrl}
-          alt={card.name}
-          className="card-tile-img"
-          loading="lazy"
-        />
-      ) : (
-        <div className="card-tile-placeholder">
-          <span>{card.name}</span>
+      <div className="card-tile-img-wrapper">
+        {imgUrl ? (
+          <img
+            src={imgUrl}
+            alt={card.name}
+            className="card-tile-img"
+            loading="lazy"
+          />
+        ) : (
+          <div className="card-tile-placeholder">
+            <span>{card.name}</span>
+          </div>
+        )}
+      </div>
+      <div className="card-tile-info">
+        <span className="card-tile-name">{card.name}</span>
+        <div className="card-tile-stats">
+          <div className="card-tile-stat">
+            <span className="card-tile-stat-label">Popularity</span>
+            <span className="card-tile-stat-value">{pct}%</span>
+          </div>
+          <div className="card-tile-stat">
+            <span className="card-tile-stat-label">Copies/Deck</span>
+            <span className="card-tile-stat-value">{card.avg_copies.toFixed(2)}</span>
+          </div>
         </div>
-      )}
-      <div className="card-tile-overlay">
-        <span className="card-tile-pct" style={{ background: color }}>
-          {pct}%
-        </span>
-        <span className="card-tile-decks">{card.deck_count} decks</span>
       </div>
     </div>
   );
